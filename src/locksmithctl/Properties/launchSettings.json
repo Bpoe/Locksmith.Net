@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Locksmithctl": {
+      "commandName": "Project",
+      "commandLineArgs": "help"
+    }
+  }
+}
